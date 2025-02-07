@@ -1,5 +1,6 @@
 <application>
   <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "NH layout",
   "layouts": {
     "Custom": {
       "v2": [
@@ -19,6 +20,31 @@
           "order": 2,
           "weight": 0.25,
           "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
         },
         {
           "id": "Notifications",
@@ -50,11 +76,101 @@
           "order": 4,
           "anchor": "RIGHT",
           "weight": 0.25
+        }
+      ]
+    },
+    "NH layout": {
+      "v2": [
+        {
+          "id": "Merge Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Structure",
+          "order": 1,
+          "weight": 0.24985355,
+          "isSplit": true
+        },
+        {
+          "id": "Bookmarks",
+          "order": 2,
+          "isShowStripeButton": false,
+          "weight": 0.1824839,
+          "isSplit": true
+        },
+        {
+          "id": "Web Inspector",
+          "order": 3,
+          "isShowStripeButton": false,
+          "weight": 0.20650263,
+          "isSplit": true
+        },
+        {
+          "id": "Endpoints",
+          "order": 4,
+          "isShowStripeButton": false,
+          "weight": 0.33011132,
+          "isSplit": true
+        },
+        {
+          "id": "Find",
+          "order": 5,
+          "weight": 0.24985355,
+          "isSplit": true
+        },
+        {
+          "id": "Pull Requests",
+          "order": 6,
+          "weight": 0.24985355,
+          "sideWeight": 0.5468986,
+          "isSplit": true
+        },
+        {
+          "id": "TODO",
+          "order": 7,
+          "isShowStripeButton": false,
+          "weight": 0.24985355,
+          "sideWeight": 0.36532664,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 8,
+          "isAutoHide": true,
+          "weight": 0.19185705,
+          "sideWeight": 0.42060304
+        },
+        {
+          "id": "Commit",
+          "order": 9,
+          "weight": 0.19185705,
+          "sideWeight": 0.57939696
+        },
+        {
+          "id": "Nx Console",
+          "order": 10,
+          "isAutoHide": true,
+          "weight": 0.24985355,
+          "sideWeight": 0.45477384
+        },
+        {
+          "id": "GitHub Actions",
+          "order": 11,
+          "weight": 0.32973734,
+          "isSplit": true
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
         },
         {
           "id": "Version Control",
           "order": 0,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.36819887
         },
         {
           "id": "Problems",
@@ -72,11 +188,87 @@
           "anchor": "BOTTOM"
         },
         {
-          "id": "Services",
+          "id": "Run",
           "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.32973734
+        },
+        {
+          "id": "Services",
+          "order": 5,
           "anchor": "BOTTOM"
+        },
+        {
+          "id": "Coverage",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.19244288
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 5,
+          "anchor": "RIGHT",
+          "weight": 0.33011132,
+          "sideWeight": 0.45778894,
+          "isSplit": true
+        },
+        {
+          "id": "GitHub Copilot Chat",
+          "order": 6,
+          "anchor": "RIGHT",
+          "weight": 0.33011132,
+          "sideWeight": 0.45778894,
+          "isSplit": true
+        },
+        {
+          "id": "Welcome to GitHub Copilot",
+          "order": 7,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.33011132,
+          "sideWeight": 0.6728643,
+          "isSplit": true
         }
-      ]
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.19185705,
+        "bottom": 0.36819887,
+        "right": 0.19244288
+      }
     }
   }
 }]]></component>
