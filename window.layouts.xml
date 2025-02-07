@@ -87,47 +87,47 @@
         },
         {
           "id": "Structure",
-          "order": 1,
+          "order": 0,
           "weight": 0.24985355,
           "isSplit": true
         },
         {
           "id": "Bookmarks",
-          "order": 2,
+          "order": 1,
           "isShowStripeButton": false,
           "weight": 0.1824839,
           "isSplit": true
         },
         {
           "id": "Web Inspector",
-          "order": 3,
+          "order": 2,
           "isShowStripeButton": false,
           "weight": 0.20650263,
           "isSplit": true
         },
         {
           "id": "Endpoints",
-          "order": 4,
+          "order": 3,
           "isShowStripeButton": false,
           "weight": 0.33011132,
           "isSplit": true
         },
         {
           "id": "Find",
-          "order": 5,
+          "order": 4,
           "weight": 0.24985355,
           "isSplit": true
         },
         {
           "id": "Pull Requests",
-          "order": 6,
+          "order": 5,
           "weight": 0.24985355,
           "sideWeight": 0.5468986,
           "isSplit": true
         },
         {
           "id": "TODO",
-          "order": 7,
+          "order": 6,
           "isShowStripeButton": false,
           "weight": 0.24985355,
           "sideWeight": 0.36532664,
@@ -135,27 +135,27 @@
         },
         {
           "id": "Notifications",
-          "order": 8,
+          "order": 7,
           "isAutoHide": true,
           "weight": 0.19185705,
           "sideWeight": 0.42060304
         },
         {
           "id": "Commit",
-          "order": 9,
+          "order": 8,
           "weight": 0.19185705,
           "sideWeight": 0.57939696
         },
         {
           "id": "Nx Console",
-          "order": 10,
+          "order": 9,
           "isAutoHide": true,
           "weight": 0.24985355,
           "sideWeight": 0.45477384
         },
         {
           "id": "GitHub Actions",
-          "order": 11,
+          "order": 10,
           "weight": 0.32973734,
           "isSplit": true
         },
