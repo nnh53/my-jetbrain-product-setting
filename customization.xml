@@ -68,7 +68,13 @@
     <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
     </group>
-    <group value="LayoutsGroup" is_group="true" forse_popup="true" action_type="1" position="1">
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+      <path value="General Actions" />
+    </group>
+    <group value="LayoutsGroup" is_group="true" forse_popup="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Left" />
@@ -79,5 +85,6 @@
       <path value="Main Menu" />
       <path value="Window" />
     </group>
+    <action id="LayoutsGroup" icon="Vcs.Log.LayoutConfiguration" />
   </component>
 </application>
