@@ -68,17 +68,17 @@
     <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
     </group>
-    <group seperator="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Left" />
-      <path value="General Actions" />
-    </group>
     <group value="LayoutsGroup" is_group="true" forse_popup="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Left" />
       <path value="General Actions" />
+    </group>
+    <group seperator="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+      <path value="VCS Group" />
     </group>
     <group value="LayoutsGroup" is_group="true" forse_popup="true" action_type="1" position="2">
       <path value="root" />

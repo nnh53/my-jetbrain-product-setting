@@ -168,9 +168,7 @@
           "id": "Version Control",
           "order": 0,
           "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.36819887
+          "weight": 0.33818012
         },
         {
           "id": "Problems",
@@ -185,13 +183,15 @@
         {
           "id": "Terminal",
           "order": 3,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.30253285
         },
         {
           "id": "Run",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.32973734
+          "isShowStripeButton": false,
+          "weight": 0.30722326
         },
         {
           "id": "Services",
@@ -266,7 +266,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.19185705,
-        "bottom": 0.36819887,
+        "bottom": 0.33818012,
         "right": 0.19244288
       }
     }
