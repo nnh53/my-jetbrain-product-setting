@@ -3,9 +3,18 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="ctrl j" />
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="e" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
